@@ -1,0 +1,12 @@
+{
+  "name": "my-extension",
+  "version": "0.0.1",
+  "tools": [
+    {
+      "name": "grep-helper",
+      "path": "./tools/my-grep.js",
+      "defaultApproval": "approve"
+      
+    }
+  ]
+}
